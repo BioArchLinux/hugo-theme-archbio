@@ -1,15 +1,15 @@
-name = "arch"
+name = "archbio"
 license = "MIT"
-licenselink = "//github.com/syui/hugo-theme-arch/blob/master/LICENSE.md"
+licenselink = "//github.com/syui/hugo-theme-archbio/blob/master/LICENSE.md"
 description = "The blog theme you may fall in love with, coming to Hugo. "
-homepage = "//github.com/syui/hugo-theme-arch"
+homepage = "//github.com/BioArchLinux/hugo-theme-archbio"
 tags = ["syntax highlighting", "maxthjax", "rss", "gallery", "widgets", "google analytics", "useful shortcodes", "responsive", "bootstrap", "font awesome", "archlinux", "hotkeys"]
 features = ["syntax highlighting", "maxthjax", "rss", "gallery", "widgets", "google analytics", "useful shortcodes", "responsive", "bootstrap", "font awesome", "archlinux", "hotkeys"]
 min_version = 0.15
 
 [author]
-  name = "syui"
-  homepage = "//syui.github.com/"
+  name = "BioArchLinux"
+  homepage = "//github.com/BioArchLinux"
 
 # If reference an existing theme
 [original]
