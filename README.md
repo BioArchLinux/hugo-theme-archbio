@@ -1,6 +1,6 @@
 # Hugo Theme ArchBio
 
-Hugo Theme ArchBio is modified from [Hugo Theme ArchBio](https://github.com/thingsym/hugo-theme-techdoc)
+Hugo Theme ArchBio is modified from [Hugo Theme Arch](https://github.com/syui/hugo-theme-arch)
 
 Hugo Theme Arch is a single column theme for hugo based on [Bootstrap](http://getbootstrap.com/) and a css styling from [Bootstrap Enhancement](http://behigh.github.io/bootstrap_dropdowns_enhancement/).
 
