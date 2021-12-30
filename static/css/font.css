@@ -54,7 +54,8 @@
 }
 
 /* effect */
-h1 a:hover span.icon-archlinux {
+
+a:hover span.icon-archlinux {
 	-webkit-transition: 0.3s ease-in-out;
 	-moz-transition: 0.3s ease-in-out;
 	-o-transition: 0.3s ease-in-out;
@@ -63,7 +64,7 @@ h1 a:hover span.icon-archlinux {
 	-webkit-text-shadow:0px 0px 1px black, 0 0 15px #38b7ea;
 	-o-text-shadow:0px 0px 1px black, 0 0 15px #38b7ea;
 	text-shadow:0px 0px 1px black, 0 0 15px #38b7ea;
-	color:#38b7ea;
+	color:#ffffff;
 }
 
 h1 a:hover span.icon-archlinuxjp {
