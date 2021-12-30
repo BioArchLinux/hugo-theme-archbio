@@ -3,7 +3,8 @@
 	-moz-transition: 0.3s ease-in-out;
 	-o-transition: 0.3s ease-in-out;
 	transition: 0.3s ease-in-out;
-	color: #38B7EA;
+	/*change logo color here*/
+	color: #bcecff;
 }
 
 .navbar-brand span.icon-archlinuxjp {
@@ -14,7 +15,8 @@
 
 .navbar-brand span.icon-archlinux {
 	font-size: 40px;
-	color: #1793D1;
+	/*change bright logo color here*/
+	color: #ffffff;
 }
 .navbar-brand span.site-title {
 	position: absolute;
