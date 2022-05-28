@@ -3,12 +3,12 @@
 <div class="widget-wrap">
     <div class="widget">
         <ul id="recent-post">
-		<li id="first-recent"><a href="https://bioarchlinux.org/sitemap.xml" id="firstmove" class="move"><h3 class="widget-title">
-			Latest News
+		<!--<li id="first-recent"><a href="https://bioarchlinux.org/sitemap.xml" id="firstmove" class="move"><h3 class="widget-title">
+			Latest News-->
 					<!--{{with .Site.Data.l10n.widgets.recent_articles.title}}{{.}}{{end}} -->
-    </h3></a></li>
+    <!--</h3></a></li>
             {{ range first 10 (where .Site.Pages "Type" "post") }}
-	    <li>
+	    <li>-->
 		    <!--
                 <div class="item-thumbnail">
                     <a href="{{ .Permalink }}" class="thumbnail">
@@ -22,8 +22,8 @@
 		-->
 		<a href="{{ .Permalink }}" class="move">{{ .Title }}</a>
 
-            </li>
-            {{ end }}
+           <!-- </li>
+            {{ end }}-->
         </ul>
     </div>
 </div>
