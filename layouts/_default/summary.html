@@ -4,7 +4,7 @@
         <div class="archive-article-thumbnail">
 
             {{ if isset .Params "banner" }}
-            <a href="{{ .Permalink }}" class="thumbnail">
+<!--             <a href="{{ .Permalink }}" class="thumbnail">
                 <span style="background-image:url({{ .Site.BaseURL }}{{ .Params.banner }})" alt="{{ .Title }}" class="thumbnail-image"></span>
             </a>
             {{ else }}
@@ -12,7 +12,7 @@
                 <span class="thumbnail-image thumbnail-none"></span>
             </a>
             {{ end }}
-        </div>
+        </div>-->
         <header class="archive-article-header">
             <h1 itemprop="name">
             <a class="archive-article-title" href="{{ .Permalink }}">{{ .Title }}</a>
